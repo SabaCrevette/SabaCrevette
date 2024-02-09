@@ -16,6 +16,11 @@ jobs:
         with:
           url: 'https://qiita.com/SabaCrevette/feed.atom' # 例: 'https://qiita.com/your-username/feed.atom'
           file: 'README.md'
+      - name: Fetch note feed
+        uses: sarisia/actions-readme-feed@v1
+        with:
+          url: 'https://note.com/saba7678/rss'
+          file: 'README.md'
       - name: Commit and push if changed
         run: |
           git config --global user.name "${{ github.actor }}"
