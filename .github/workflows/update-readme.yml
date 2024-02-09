@@ -2,8 +2,8 @@ name: Update README
 
 on:
   schedule:
-    # UTCの15時40分に実行
-    - cron: '00 16 * * *'
+    # 1時間ごとに実行
+    - cron: '0 */1 * * *'
   workflow_dispatch:
 
 jobs:
