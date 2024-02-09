@@ -1,7 +1,6 @@
 name: Update README
 
 on:
-on:
   workflow_dispatch:
   schedule:
     # 1時間ごとに実行
