@@ -1,6 +1,6 @@
 ### MyProfile
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={SabaCrevette}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabaCrevette
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
