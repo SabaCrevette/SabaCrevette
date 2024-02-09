@@ -18,6 +18,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SabaCrevette&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Languages
+![](https://skillicons.dev/icons?i=html,css,js,ruby)
+
+### Frameworks and Library
+![](https://skillicons.dev/icons?i=rails,react)
+
+### DB and Dev Tools etc
+![](https://skillicons.dev/icons?i=git,docker,heroku,aws,postgres)
+
+### Qiita Posts
+<!-- feed start -->
+<!-- feed end -->
+
 
 
 <!--
