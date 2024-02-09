@@ -28,8 +28,12 @@
 ![](https://skillicons.dev/icons?i=git,docker,heroku,aws,postgres)
 
 ### Qiita Posts
-<!-- feed start -->
-<!-- feed end -->
+<!-- profile updater begin: qiita -->
+<!-- profile updater end: qiita -->
+
+### Note Posts
+<!-- profile updater begin: note -->
+<!-- profile updater end: note -->
 
 
 
