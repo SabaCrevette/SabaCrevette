@@ -1,23 +1,23 @@
-name: profile updater
+# name: profile updater
 
-on:
-  schedule:
-    - cron: '30 16 * * *'
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: '30 16 * * *'
+#   workflow_dispatch:
 
-jobs:
-  profile-updater:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: SabaCrevette/profile-updater@v1
-        with:
-          note_user_id: SabaCrevette
-          qiita_user_id: SabaCrevette
-      - name: Commit and push
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "action@github.com"
-          git add .
-          git commit -m "profile updated" || true
-          git push origin main
+# jobs:
+#   profile-updater:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: SabaCrevette/profile-updater@v1
+#         with:
+#           note_user_id: SabaCrevette
+#           qiita_user_id: SabaCrevette
+#       - name: Commit and push
+#         run: |
+#           git config --local user.name "GitHub Actions"
+#           git config --local user.email "action@github.com"
+#           git add .
+#           git commit -m "profile updated" || true
+#           git push origin main
