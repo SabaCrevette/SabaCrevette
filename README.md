@@ -4,10 +4,11 @@
   <img src="https://i.gyazo.com/ed4b36ff0a4d481c287ec50e5dfa000c.png" width="50%" height="auto">
 </a>
 
-<a href="https://winter-miniapp-2023-10a6b1683e30.herokuapp.com/">
+<a href="https://github.com/SabaCrevette/2023_winter_miniapp">
   <img src="https://i.gyazo.com/490667cce8693d1da137d438170c0787.jpg" width="30%" height="auto">
 </a>
 
+<p>※新年START神経衰弱は閉鎖済み：リポジトリへのリンクになっています。</p>
 
 ## MyProfile
 
