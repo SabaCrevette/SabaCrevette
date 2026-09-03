@@ -12,13 +12,21 @@
 
 ## 🛠 MyApp
 
-スクール時代に作成したアプリです。
-現在、**リニューアルに向けて改修中**のためリポジトリは非公開にしています。公開再開までもう少しお待ちください 🙇
+### 制作中
 
-| App | Status |
-| --- | --- |
-| **PictoMemory** | ![renewal](https://img.shields.io/badge/renewal-in%20progress-orange?style=flat-square) |
-| **新年START神経衰弱** | ![renewal](https://img.shields.io/badge/renewal-in%20progress-orange?style=flat-square) ![service](https://img.shields.io/badge/service-closed-lightgrey?style=flat-square) |
+| App | 概要 | Status |
+| --- | --- | --- |
+| [**Saba Crevette Aquarium**](https://saba-crevette-profile-git-develop-saba-crevette.vercel.app/) | 個人ポータルサイト。プロフィール / 制作物 / リリースノートを公開しています | ![in progress](https://img.shields.io/badge/status-in%20progress-blue?style=flat) |
+| **crevette-arcade** | 企画中。内容が固まり次第ここに追記します | ![planning](https://img.shields.io/badge/status-planning-yellow?style=flat) |
+
+### 公開終了
+
+スクール時代に作成したアプリです。現在は公開・リポジトリともに終了しています（再公開の予定は未定）。
+
+| App | 概要 | Status |
+| --- | --- | --- |
+| **PictoMemory** | スクール時代の成果物 | ![closed](https://img.shields.io/badge/status-closed-inactive?style=flat) |
+| **新年START神経衰弱** | スクール時代の成果物 | ![closed](https://img.shields.io/badge/status-closed-inactive?style=flat) |
 
 ---
 
