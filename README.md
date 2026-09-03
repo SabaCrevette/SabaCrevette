@@ -53,11 +53,17 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaCrevette&theme=transparent" alt="profile details" />
 
+<!-- 言語カードは public リポジトリのみが対象で、現状はすべて private のため空表示になる。
+     public リポジトリが増えたらコメントを外す
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabaCrevette&theme=transparent" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabaCrevette&theme=transparent" alt="most commit language" />
+-->
 
+<!-- stats / productive-time も public リポジトリのみが対象。
+     現状は Stars 0 / PRs 0 / Issues 0、活動時間帯も最大 2 commits/hour で中身が薄いため非表示
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaCrevette&theme=transparent" alt="stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SabaCrevette&theme=transparent&utcOffset=9" alt="productive time" />
+-->
 
 <img src="https://streak-stats.demolab.com?user=SabaCrevette&hide_border=true&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
 
