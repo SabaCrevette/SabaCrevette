@@ -4,7 +4,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=520&lines=Welcome+to+my+profile!;TypeScript+%2F+Go+%2F+Ruby+%2F+Python;Building+and+learning+every+day." alt="typing" />
 
-<img src="https://komarev.com/ghpvc/?username=SabaCrevette&style=flat-square&color=blue&label=Profile+Views" alt="profile views" />
+<img height="20" src="https://komarev.com/ghpvc/?username=SabaCrevette&style=flat&color=blue&label=Profile+Views" alt="profile views" />
+<img height="20" src="https://img.shields.io/github/followers/SabaCrevette?label=follow&logo=github&style=flat" alt="followers" />
+<img height="20" src="https://qiita-badge.apiapi.app/s/SabaCrevette/posts.svg" alt="qiita posts" />
+<img height="20" src="https://qiita-badge.apiapi.app/s/SabaCrevette/contributions.svg" alt="qiita contributions" />
+<img height="20" src="https://badgen.org/img/zenn/saba7678/articles?style=flat" alt="zenn articles" />
 
 </div>
 
@@ -49,11 +53,11 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SabaCrevette&theme=transparent" alt="profile details" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabaCrevette&theme=transparent" alt="repos per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabaCrevette&theme=transparent" alt="most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SabaCrevette&theme=transparent" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SabaCrevette&theme=transparent" alt="most commit language" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaCrevette&theme=transparent" alt="stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SabaCrevette&theme=transparent&utcOffset=9" alt="productive time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SabaCrevette&theme=transparent" alt="stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SabaCrevette&theme=transparent&utcOffset=9" alt="productive time" />
 
 <img src="https://streak-stats.demolab.com?user=SabaCrevette&hide_border=true&theme=transparent&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak" />
 
