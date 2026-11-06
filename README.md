@@ -20,7 +20,7 @@
 
 | App | 概要 | Status |
 | --- | --- | --- |
-| [**Saba Crevette Aquarium**](https://saba-crevette-profile-git-develop-saba-crevette.vercel.app/) | 個人ポータルサイト。プロフィール / 制作物 / リリースノートを公開しています | ![in progress](https://img.shields.io/badge/status-in%20progress-blue?style=flat) |
+| [**Saba Crevette Aquarium**](https://saba-crevette-profile.vercel.app/) | 個人ポータルサイト。プロフィール / 制作物 / リリースノートを公開しています | ![in progress](https://img.shields.io/badge/status-in%20progress-blue?style=flat) |
 | **crevette-arcade** | 企画中。内容が固まり次第ここに追記します | ![planning](https://img.shields.io/badge/status-planning-yellow?style=flat) |
 
 ### 公開終了
